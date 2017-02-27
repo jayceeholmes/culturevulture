@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:900');
+
+body{
+  background-color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.title{
+
+  color: white;
+  font-size: 3vw;
+
+  margin-left: 5%;
+  margin-top: 10%;
+
+}
+
+.instructions{
+  color: white;
+  font-family: Arial;
+  font-size: 1.2vw;
+
+  margin-left: 5%;
+  margin-top: -2.5%;
+}
+
+#grid{
+  padding-left: 2%;
+}
+
+.box{
+  background-color: white;
+  width: 28vw;
+  height: 28vw;
+
+  vertical-align: baseline;
+  line-height: 28vw;
+  text-align: center;
+  display: inline-block;
+  margin: 1.5%;
+}
+
+a{
+  text-decoration: none;
+  font-size: 250%;
+}
+
+#b1{
+  background-image: url('../img/beyonce.jpg');
+  background-size: 28vw 28vw;
+}
+
+#b1 a{
+  color: yellowgreen;
+}
+
+#b2{
+  background-image:url('../img/kanye.jpg');
+  background-size: 28vw 28vw;
+}
+
+#b2 a{
+  color: gold;
+}
+
+
+
+#b3{
+  background-image: url('../img/drake.jpg');
+  background-size: 28vw 28vw;
+  background-color: #2b3b54;
+}
+
+#b3 a{
+  color: pink;
+}
+
+#b4{
+  background-image: url('../img/rihanna.jpg');
+  background-size: 28vw 28vw;
+}
+
+#b4 a{
+  color: red;
+}
+
+#b5{
+  background-image: url('../img/nicki.jpg');
+  background-size: 28vw 28vw;
+}
+
+#b5 a{
+  color: purple;
+}
+
+#b6{
+  background-image: url('../img/kendrick.jpg');
+  background-size: 28vw 28vw;
+}
+
+#b6 a{
+  color: blue;
+}
+
+#b7{
+  background-image: url('../img/silento.jpg');
+  background-size: 28vw 28vw;
+}
+
+#b7 a{
+  color: green;
+}
+
+#b8{
+  background-image: url('../img/me.jpg');
+  background-size: 28vw 28vw;
+}
+
+#b8 a{
+  color: hotpink;
+}
+
+#b9{
+  background-image: url('../img/snoop.jpg');
+  background-size: 28vw 28vw;
+}
+
+#b9 a{
+  color: teal;
+}
+
+#b10{
+  background-image: url('../img/bob.jpg');
+  background-size: 28vw 28vw;
+}
+
+#b10 a{
+  color: blueviolet;
+}
+
+#b11{
+  background-image: url('../img/nwa.jpg');
+  background-size: 28vw 28vw;
+}
+
+#b11 a{
+  color: goldenrod;
+}
+
+#b12{
+  background-image: url('../img/marvin.jpg');
+  background-size: 28vw 28vw;
+}
+
+#b12 a{
+  color: lightblue;
+}
+
+iframe{
+  display: block;
+  margin: 0 auto;
+}
